@@ -11,9 +11,9 @@ TODO:
   prefer to use some other license, you'll need to revise this file
 
 TODO: Select the appropriate certification level icon below
-![](https://img.shields.io/badge/Certification%20Level-Certified-00FF00?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-![](https://img.shields.io/badge/Certification%20Level-Trusted-0000FF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-![](https://img.shields.io/badge/Certification%20Level-Community-EA0A8E?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+- ![](https://img.shields.io/badge/Certification%20Level-Certified-6C757D?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+- ![](https://img.shields.io/badge/Certification%20Level-Trusted-007BFF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+- ![](https://img.shields.io/badge/Certification%20Level-Community-28A745?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
 
 ## Requirements
 
