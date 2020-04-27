@@ -34,6 +34,4 @@ For general contribution and community guidelines, please see the [community rep
 5. [Create new Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 From here your pull request will be reviewed and once you've responded to all
-feedback it will be merged into the project. Congratulations, you're a
-contributor!
-dd
+feedback it will be merged into the project. Congratulations, you're a contributor!
