@@ -1,15 +1,6 @@
 # {Your project name}
 TODO: Insert brief description of your project
 
-TODO:
-- [ ] Edit the [`CONTRIBUTING.md`](./CONTRIBUTING.md) with development and contribution
-  guidelines for your specific project
-- [ ] Update the [feature templates](./.github/ISSUE_TEMPLATE/) with the correct labels
-  for your specific project
-- [ ] Fill out this README, addressing all TODOs
-- [ ] The project comes by default with an [Apache 2.0 License](./LICENSE) - if you would
-  prefer to use some other license, you'll need to revise this file
-
 ## Certification level
 TODO: Select the appropriate certification level section below, and remove all others.
 
