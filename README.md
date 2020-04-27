@@ -10,10 +10,28 @@ TODO:
 - [ ] The project comes by default with an [Apache 2.0 License](./LICENSE) - if you would
   prefer to use some other license, you'll need to revise this file
 
-TODO: Select the appropriate certification level icon below
-- ![](https://img.shields.io/badge/Certification%20Level-Certified-6C757D?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-- ![](https://img.shields.io/badge/Certification%20Level-Trusted-007BFF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-- ![](https://img.shields.io/badge/Certification%20Level-Community-28A745?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+## Certification level
+TODO: Select the appropriate certification level section below, and remove all others.
+
+{Community}
+![](https://img.shields.io/badge/Certification%20Level-Community-28A745?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+
+This repo is a **Community** level project. It's a community contributed project that **is not reviewed or supported
+by CyberArk**. For more detailed information on our certification levels, see [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
+
+{Trusted}
+![](https://img.shields.io/badge/Certification%20Level-Trusted-007BFF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+
+This repo is a **Trusted** level project. It's been reviewed by CyberArk to verify that it will securely
+work with Conjur OSS as documented. For more detailed  information on our certification levels, see
+[our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
+
+{Certified}
+![](https://img.shields.io/badge/Certification%20Level-Certified-6C757D?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
+
+This repo is a **Certified** level project. It's been reviewed by CyberArk to verify that it will securely
+work with CyberArk DAP as documented. In addition, CyberArk offers Enterprise-level support for these features. For
+more detailed  information on our certification levels, see [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
 
 ## Requirements
 
