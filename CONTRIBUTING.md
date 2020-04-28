@@ -14,14 +14,17 @@ For general contribution and community guidelines, please see the [community rep
 
 ## Development
 
+TODO:
 [What development tools are required to start working on this project?]
 
 ## Testing
 
+TODO:
 [Instructions for running the test suite]
 
 ## Releases
 
+TODO:
 [Instructions for creating a new release]
 
 ## Contributing workflow
