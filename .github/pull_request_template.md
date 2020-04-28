@@ -13,7 +13,7 @@
   - [ ] Development
   - [ ] Testing
   - [ ] Releases
-- [ ] Update [CHANGELOG.md](../CHANGELOG.md) with information of previous versions
+- [ ] Update [CHANGELOG.md](../CHANGELOG.md) with information on previous versions (if applicable)
 - [ ] Update the [feature templates](./ISSUE_TEMPLATE/) with the correct labels
   for your specific project
 - [ ] The project comes by default with an [Apache 2.0 License](../LICENSE) - if you would
