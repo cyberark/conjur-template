@@ -3,20 +3,20 @@
 ### Checklist:
 
 #### TODO:
-- [ ] Fill out [README.md](../README.md), addressing all TODOs
+- [ ] Fill out [README.md](README.md), addressing all TODOs
   - [ ] Name
   - [ ] Certification Level
   - [ ] Requirements
   - [ ] Usage Instructions
-- [ ] Edit the [`CONTRIBUTING.md`](../CONTRIBUTING.md) with development and contribution
+- [ ] Edit the [`CONTRIBUTING.md`](CONTRIBUTING.md) with development and contribution
   guidelines for your specific project
   - [ ] Development
   - [ ] Testing
   - [ ] Releases
-- [ ] Update [CHANGELOG.md](../CHANGELOG.md) with information on previous versions (if applicable)
-- [ ] Update the [feature templates](./ISSUE_TEMPLATE/) with the correct labels
+- [ ] Update [CHANGELOG.md](CHANGELOG.md) with information on previous versions (if applicable)
+- [ ] Update the [feature templates](.github/ISSUE_TEMPLATE/) with the correct labels
   for your specific project
-- [ ] The project comes by default with an [Apache 2.0 License](../LICENSE) - if you would
+- [ ] The project comes by default with an [Apache 2.0 License](LICENSE) - if you would
   prefer to use some other license, you'll need to revise this file
 
 #### Migrating From Another Repo:
