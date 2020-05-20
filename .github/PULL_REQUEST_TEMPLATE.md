@@ -25,6 +25,7 @@
 
 #### Important
 - [ ] If this repo will be public, also follow these [requirements](https://github.com/cyberark/employee-guidelines/blob/master/guidelines/public_repos_checklist.md)
+- [ ] Remove the "new project" issue template from the project: `.github/ISSUE_TEMPLATE/new-project.md`
 - [ ] (Final TODO) **Delete this checklist from the PR template** (in `.github/pull_request_template.md`)
   
 ---
