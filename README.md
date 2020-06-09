@@ -38,7 +38,7 @@ a high level overview of the benefit of your project and its main use cases.
 ## Contributing
 
 We welcome contributions of all kinds to this repository. For instructions on how to get started and descriptions
-of our development workflows, please see our [contributing guide](https://github.com/cyberark/conjur-api-go/blob/master/CONTRIBUTING.md).
+of our development workflows, please see our [contributing guide](CONTRIBUTING.md).
 
 ## License
 
