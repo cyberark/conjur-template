@@ -25,6 +25,8 @@ plugins:
 
   fixme: # Flags any FIXME, TODO, BUG, XXX, HACK comments so they can be fixed
     enabled: true
+    issue_override:
+      severity: info # Don't fail PRs for FIXME tags, but still flag them
     config:
       strings:
       - FIXME
@@ -40,6 +42,9 @@ plugins:
   # Markdown
   markdownlint:
     enabled: true
+    issue_override:
+      severity: info # Should be redundant as CC says markdownlint defaults to
+                     # info already, but including it here to remind us it's so
 
   # Go
   gofmt:
