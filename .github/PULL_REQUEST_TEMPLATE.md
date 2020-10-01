@@ -36,7 +36,7 @@
 - _Are there relevant screenshots you can add to the PR description?_
 
 ### What ticket does this PR close?
-Connected to #[relevant GitHub issues, eg 76]
+Resolves #[relevant GitHub issues, eg 76]
 
 ### Checklists
 
