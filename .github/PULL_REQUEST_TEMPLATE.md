@@ -14,8 +14,8 @@
   - [ ] Testing
   - [ ] Releases
 - [ ] Update `CHANGELOG.md` with information on previous versions (if applicable)
-- [ ] Update the feature templates (in `.github/ISSUE_TEMPLATE/`) with the correct labels
-      for your specific project
+- [ ] Add issue templates to `.github/ISSUE_TEMPLATE/` if the defaults in https://github.com/cyberark/.github
+      don't work for your use case
 - [ ] The project comes by default with an Apache 2.0 License (in `LICENSE`) - if you would
       prefer to use some other license, you'll need to revise this file
 
