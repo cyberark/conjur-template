@@ -14,19 +14,19 @@ by CyberArk**. For more detailed information on our certification levels, see [o
 ![](https://img.shields.io/badge/Certification%20Level-Trusted-007BFF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
 
 This repo is a **Trusted** level project. It's been reviewed by CyberArk to verify that it will securely
-work with Conjur OSS as documented. For more detailed  information on our certification levels, see
+work with Conjur Open Source as documented. For more detailed  information on our certification levels, see
 [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
 
 {Certified}
 ![](https://img.shields.io/badge/Certification%20Level-Certified-6C757D?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
 
 This repo is a **Certified** level project. It's been reviewed by CyberArk to verify that it will securely
-work with CyberArk DAP as documented. In addition, CyberArk offers Enterprise-level support for these features. For
+work with CyberArk Conjur Enterprise as documented. In addition, CyberArk offers Enterprise-level support for these features. For
 more detailed  information on our certification levels, see [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
 
 ## Requirements
 
-TODO: Add any requirements that apply to your project here. Which Conjur / DAP versions is it
+TODO: Add any requirements that apply to your project here. Which Conjur Open Source / Enterprise versions is it
 compatible with? Does it integrate with other tools / projects - and if so, what versions of those
 does it require?
 
