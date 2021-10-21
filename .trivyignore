@@ -1,0 +1,7 @@
+# CVES can be listed here to prevent trivy from flagging issues
+# to which we are not vulnerable. Changes to this file
+# require Security Architect/Champion approval.
+
+# Format is a CVE identifier number alone on an uncommented line.
+# Put comments just above the CVE identifier explaining why we are 
+# not vulnerable. 
